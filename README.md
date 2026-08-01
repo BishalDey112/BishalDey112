@@ -9,17 +9,4 @@
 ## About Me
 
 I am passionate about Machine Learning, Data Analytics, and AI-powered systems.
-
-Currently learning:
-- Machine Learning
-- Data Science
-- Flask Development
-- MongoDB
-- Analytics & Visualization
-
-I enjoy building practical projects related to:
-- Fitness Tracking
-- Smart Systems
-- AI Applications
-- Data Analysis
-- Web-based Tools
+S
